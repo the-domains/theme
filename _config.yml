@@ -1,0 +1,28 @@
+name: theme
+favicon: null
+layout_spectrum: 0.1717090057209134
+typography_spectrum: 0.610748594859615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2513919344637543
+  lightness: 0.7932642290834337
+  saturation: 0.2857202442828566
+  rhythmicContrast: 0.9190028486773372
+purpose: []
